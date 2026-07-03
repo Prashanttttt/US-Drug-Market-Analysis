@@ -12,7 +12,7 @@ Healthcare and pharma commercial teams need to understand *where growth is actua
 
 ## Key Findings
 
-- **Ozempic** (GLP-1 receptor agonist) grew from **$280M (2018) to $18B (2024)** — a ~64x increase — while legacy **Januvia** (DPP-4 inhibitor) declined **65%** over the same period, signalling a major therapeutic class shift.
+- **Ozempic** (GLP-1 receptor agonist) grew from **$280M (2018) to $18B (2024)** — a 64x increase, while legacy **Januvia** (DPP-4 inhibitor) declined **65%** over the same period, signalling a major therapeutic class shift.
 - **GLP-1 receptor agonists** are the top-performing drug class: **38.76% market share**, the fastest-growing segment, with a **CAGR of ~10.75% projected through 2030**.
 - **Metformin** leads in prescription volume (**45–50% share**) but trails significantly in revenue growth — a classic high-volume/low-value dynamic with direct implications for portfolio prioritisation.
 - SGLT2 inhibitors (e.g. Jardiance) are the second-fastest-growing class, indicating a broader shift toward newer mechanism-of-action drug classes over legacy oral therapies.
